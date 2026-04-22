@@ -1,2 +1,2 @@
-# .github
-rancherfederal org readme
+# Rancher Government Solutions
+We've moved! Rancher Government Solutions repositories now exist in our [ranchergovernment](https://github.com/ranchergovernment) and [ranchergovernment-sandbox](https://github.com/ranchergovernment-sandbox) orgs. Any existing links to repos previously in `rancherfederal` will redirect to the new org, but please update bookmarks to point to the new location at your convenience.
